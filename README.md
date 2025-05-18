@@ -3,5 +3,5 @@ A spectrometer program based on ocean-optics seabreeze. It can measure, temperat
 
 
 1. Make sure that you have installed seabreeze library. It is required to obtain data from the ocean-optics spectrometer.
-2. Download the python file and from this repository and run it.
-   
+2. Download all the files from this repository and run the python file.
+3. The files "brightR.txt", "darkR.txt", "brightT.txt", "darkT.txt", will be updated once you normalise during the experiment.
